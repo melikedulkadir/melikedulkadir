@@ -14,7 +14,7 @@
 
 - 💬 Ask me about Python, Java
 
-- 📫 How to reach me: m.nurr13@gmail.com
+- 📫 How to reach me: melikenurdulkadir@gmail.com
 
 [![Profile Views](https://visitcount.itsvg.in/api?id=melikedulkadir&icon=0&color=0)](https://visitcount.itsvg.in)
 
